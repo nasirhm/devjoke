@@ -659,3 +659,21 @@ I went on a date. The girl said " Pass the salt ". I replied " Pass by value or 
 A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
 
 ***
+
+STOP making fun of different programming languages
+
+C is FAST
+
+Java is POPULAR
+
+Ruby is COOL
+
+COBOL is AMAZING
+
+Python is BEAUTIFUL
+
+PHP
+
+JavaScript is AWESOME
+
+***
